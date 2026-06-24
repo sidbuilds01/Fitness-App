@@ -116,7 +116,12 @@ lib/
 ├── providers/
 └── utils/
 ```
+## 👨‍💻 Developers
 
+- Siddhant Chaure
+- Vedang Nagpure
+
+Built collaboratively using Flutter.
 ---
 
 ## 🎯 Goal
